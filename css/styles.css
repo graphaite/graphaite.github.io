@@ -102,11 +102,18 @@ hr {
   bottom: 300px;
 }
 
-.skill-row {
+.skill-row-left {
   margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
-  line-height: 2;
+  line-height: 2rem;
+}
+
+.skill-row-right {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: right;
+  line-height: 2rem;
 }
 
 .skill-image-left {
